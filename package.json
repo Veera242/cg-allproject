@@ -1,0 +1,22 @@
+{
+  "name": "casalp-next",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fontsource-variable/cormorant-garamond": "^5.1.0",
+    "@fontsource-variable/jost": "^5.1.0",
+    "lenis": "^1.3.27",
+    "next": "14.2.15",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "libsodium-wrappers": "^0.8.4",
+    "ssh2": "^1.17.0"
+  }
+}
